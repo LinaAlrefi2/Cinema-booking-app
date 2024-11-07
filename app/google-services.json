@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247575719789",
+    "project_id": "cnnm1-d3c92",
+    "storage_bucket": "cnnm1-d3c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247575719789:android:c62a9f053d0a2029a4f464",
+        "android_client_info": {
+          "package_name": "com.app.cnnm1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4pkXdfajj7jASl5ApsNhRGOP1fczItEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
